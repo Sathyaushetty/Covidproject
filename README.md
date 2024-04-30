@@ -6,9 +6,11 @@ This project focuses on exploring COVID-19 data and vaccination statistics to ga
 
 ### Data Sources
 
-CovidDeaths and CovidVaccination Data: The primary datasets used for this analysis are "CovidDeath.xlsx" and "CovidVaccination.xlsx" files, Conataing detailed information of deaths and vaccinations respectively.
+The primary datasets used for this analysis are "CovidDeath.xlsx" and "CovidVaccination.xlsx" files, Containing detailed information of deaths and vaccinations respectively.
 
 ### Tools
 
 - SQL Server - Data Exploration
 - Tableau - Visualization
+
+###
